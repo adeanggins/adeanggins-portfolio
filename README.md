@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Professional Overview
-I am a highly accomplished Data Science and Artificial Intelligence Leader with over 12 years of experience[cite: 4]. [cite_start]I specialize in transitioning complex energy sector operations into data-driven environments, delivering significant financial value—including over **$100 million** in accrual benefits through Lean Six Sigma and AI initiatives.
+I am a highly accomplished Data Science and Artificial Intelligence Leader with over 12 years of experience. I specialize in transitioning complex energy sector operations into data-driven environments, delivering significant financial value—including over **$100 million** in accrual benefits through Lean Six Sigma and AI initiatives.
 
 ---
 
@@ -53,9 +53,21 @@ I am a highly accomplished Data Science and Artificial Intelligence Leader with 
 
 ---
 
-## 📚 Selected Publications
-* **SPE-225108-MS:** "Democratizing Data Science... Empowering Domain Experts Strategy with No-Code AI/ML Platforms" (2025).
-* **IPA22-F-93:** "Integration of AI-ML for Basic Sediment and Water (BSW) Prediction" (2022).
+## 📚 Publications
+* **SPE-225108-MS:** "Democratizing Data Science Journey in PT Pertamina
+Hulu Rokan (PHR): Empowering Domain Experts Strategy with No-Code AI/ML Platforms" (2025).
+* **SPE-224966-MS:** "Leads: A Deep Learning Approach to Revolutionizing
+Gas Plant Maintenance with Advanced Anomaly Detection Technology" (2025).
+* **SPE-215287-MS:** "Basic Sediment and Water (BSW) Artificial
+Intelligence Integration in Heavy Oil Steam Flood Central Gathering Station Facilities Through Machine
+Learning Regression Model Implementation" (2023).
+* **23GOTS-P-445-
+SPE:** "Artificial Intelligence (AI) Based
+– Under Suspended Load Detection – Case Study in Rokan Drilling & Completion Operation" (2023).
+* **IPA22-O-131:** "Artificial Intelligence (AI) Based Personnel Protective
+Equipment (PPE) Monitoring – Case Study in Rokan Drilling Operation" (2022).
+* **IPA22-F-93:** "Integration of Artificial Intelligence – Machine Learning for
+Basic Sediment and Water (BSW) Prediction in Steam Flood Heavy Oil Central Gathering Station Facilities" (2022).
 * **ICMEM21-ID641:** "AI Implementation in Stock Market Prediction: Indonesia Stock Exchange LQ45 Index" (2021).
 
 ---
