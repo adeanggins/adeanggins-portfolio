@@ -70,8 +70,14 @@ Equipment (PPE) Monitoring – Case Study in Rokan Drilling Operation" (2022).
 Basic Sediment and Water (BSW) Prediction in Steam Flood Heavy Oil Central Gathering Station Facilities" (2022).
 * **ICMEM21-ID641:** "AI Implementation in Stock Market Prediction: Indonesia Stock Exchange LQ45 Index" (2021).
 
+
+---
+
+## 💻 Portfolio List
+* [Oil and Gas Sector](https://github.com/adeanggins/oil-and-gas-portfolio-examples/)
+
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [[https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/)]
+* **LinkedIn:** [https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/)
 * **GitHub:** [https://github.com/adeanggins](https://github.com/adeanggis)
