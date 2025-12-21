@@ -73,5 +73,5 @@ Basic Sediment and Water (BSW) Prediction in Steam Flood Heavy Oil Central Gathe
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [[Insert your LinkedIn Link here](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/)]
+* **LinkedIn:** [[https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/](https://www.linkedin.com/in/ade-anggi-naluriawan-santoso-83493a81/)]
 * **GitHub:** [https://github.com/adeanggins](https://github.com/adeanggis)
