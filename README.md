@@ -77,6 +77,7 @@ Basic Sediment and Water (BSW) Prediction in Steam Flood Heavy Oil Central Gathe
 * [Oil and Gas Sector](https://github.com/adeanggins/oil-and-gas-portfolio-examples/)
 * [MSC in Data Science](https://github.com/adeanggins/msc-datascience/)
 * [Petroleum Production Engineering](https://github.com/adeanggins/petroleum-production-engineering)
+* [Reservoir Engineering Handbook](https://github.com/adeanggins/reservoir-engineering-handbook)
 
 ---
 
